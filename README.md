@@ -153,6 +153,9 @@ Young Generation의 공간은 Old Generation에 비해 상대적으로 작기 �
 
 **⑦** 비어있는 Survival 1으로 이동하고 sweep
 
+![image](https://github.com/BombJuun/Garbage-Collection/assets/133941695/164f7eed-daf6-4a27-bcb2-d42804cba82b)
+
+
 
 **⑧** 다시 살아남은 모든 객체들은 age가 1씩 증가
 
